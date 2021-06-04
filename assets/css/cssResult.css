@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+            
+   background-color: #f9f9f9;   
+   font-family: Arial, Helvetica, sans-serif; 
+}
+
+#hero{
+
+    height: 80px;
+    padding-bottom: 50;
+    background: linear-gradient(180deg, #031E3E, #005271);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(../img/stardot1.png);  
+}
+
+.bg-dark{
+
+    background-color: transparent !important;
+}
+
+
+
+
+
+
+
+
+
+#search{
+
+    width: 1200px;
+    height: 125px;
+    border:2px, solid, black;
+    
+    
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 50px;
+
+    background-image: url(../img/stardot2.png);
+    background-size: cover;
+
+    
+}
+#search .icon-cari{
+
+    background-image: url(../img/cari2.png);
+    background-size: cover;
+    display: inline-flex;
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    
+}
+#footer{
+
+    
+    height: 200px;
+    width: auto;
+    background-image: url(../img/tes.png);
+    background-size: cover;
+    margin-left: -60px;
+    
+}
+
+hr{
+
+    width: 100px;
+    margin: auto;
+   border: 1px solid #0000ff;
+   border-radius: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    
+    
+    
+    
+}
+
+.logo {
+
+    margin-left: 30px;
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/hat.png);
+    background-size: cover;
+}
+
+.icon-1{
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/about.png);
+    background-size: cover;
+    padding-right:20px;
+    margin-right: 5px;
+    
+}
+.icon-2{
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/help.png);
+    background-size: cover;
+    padding-right:20px;
+    margin-right: 5px;
+    
+}
+.icon-3{
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/group.png);
+    background-size: cover;
+    padding-right:20px;
+    margin-right: 5px;
+    
+}
+
+.icon-4{
+    width: 25px;
+    height: 20px;
+
+    background-size: cover;
+    display: inline-block;
+    
+}
+
+#footer{
+
+    margin: auto;
+}
+#footer .icon-5{
+
+    
+    background-image: url(../img/hat.png);
+    background-size: cover;
+    
+}
+
+#footer .icon-twt{
+    
+
+    background-image: url(../img/twitter.png);
+    background-size: cover;
+}
+
+#footer .icon-fb{
+    
+
+    background-image: url(../img/facebook.png);
+    background-size: cover;
+}
+#footer .icon-ig{
+    
+
+    background-image: url(../img/instagram.png);
+    background-size: cover;
+}
+#footer .icon-gh{
+    
+
+    background-image: url(../img/github.png);
+    background-size: cover;
+}
+
+
+

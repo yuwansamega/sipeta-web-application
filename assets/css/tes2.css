@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+            
+   background-color: #f9f9f9;   
+   font-family: Arial, Helvetica, sans-serif; 
+}
+
+#hero{
+
+    height: 400px;
+    padding-bottom: 50;
+    background: linear-gradient(180deg, #031E3E, #005271);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url(../img/stardot1.png);  
+}
+
+.bg-dark{
+
+    background-color: transparent !important;
+}
+
+#content{
+    color: white;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#content h1{
+
+    font-size: 32px;
+    
+}
+#content .container{
+    background-image: url(../img/lamp.png);
+    background-size: cover;
+}
+
+#contentsearch{
+    
+    height: 150px;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+}
+#search .container{
+
+    
+}
+
+p{
+    margin:auto;
+    text-align: center;
+    width: 600px;
+    
+}
+
+#search{
+
+    width: 1200px;
+    height: 125px;
+    border:2px, solid, black;
+    
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 50px;
+
+    background-image: url(../img/stardot2.png);
+    background-size: cover;
+
+    
+}
+
+#footer{
+
+    height: 200px;
+    width: auto;
+    background-image: url(../img/tes.png);
+    background-size: cover;
+    margin-left: -60px;
+    
+}
+
+hr{
+
+    width: 100px;
+    margin: auto;
+   border: 1px solid #0000ff;
+   border-radius: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    
+    
+    
+    
+}
+
+.logo {
+
+    margin-left: 30px;
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/hat.png);
+    background-size: cover;
+}
+
+.icon-1{
+    width: 30px;
+    height: 30px;
+    background-image: url(../img/about.png);
+    background-size: co;
+}
+
+
